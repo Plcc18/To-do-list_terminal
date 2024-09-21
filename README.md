@@ -1,5 +1,7 @@
 # To-do List 📋
 
+![Terminal Screenshot](https://github.com/Plcc18/To-do-list_terminal/blob/master/assets/Terminal.PNG)
+
 ## Descrição 📎
 O projeto consiste em um aplicativo simples e eficiente que permite gerenciar suas tarefas diárias diretamente no terminal. Ele possibilita que os usuários adicionem, visualizem e organizem suas metas de forma prática. Você pode criar novas tarefas, marcar aquelas que já foram concluídas, listar tanto as metas pendentes quanto as finalizadas, e remover tarefas que não são mais necessárias.
 
